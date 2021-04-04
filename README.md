@@ -1,7 +1,7 @@
 # inventory-pepe
 Inventory Pepe is a tool to calculate and track the value of your Rocket League Inventory.
 
-Requirements
+Requirements:
   1. You need Bakkesmod install Bakkesmod
   2. Your In-Game Language has to be  english
   3. Start Bakkesmod -> go to Misc -> dump inventory to csv
