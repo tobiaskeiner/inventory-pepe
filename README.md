@@ -7,3 +7,5 @@ Requirements:
   3. Start Bakkesmod -> go to Misc -> dump inventory to csv
   4. Find location of the inventory.csv file -> Open BakkesModInjectorCpp -> file -> Open BakkesMod folder --> go to data
   5. Execute Python file
+
+Exe coming soon
