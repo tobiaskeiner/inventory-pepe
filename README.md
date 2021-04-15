@@ -8,4 +8,4 @@ Requirements:
   4. Find location of the inventory.csv file -> Open BakkesModInjectorCpp -> file -> Open BakkesMod folder --> go to data
   5. Execute Python file
 
-Exe coming soon
+![grafik](https://user-images.githubusercontent.com/51849318/114839285-e4f83a00-9dd5-11eb-954e-e031dd4f1a00.png)
