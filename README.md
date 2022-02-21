@@ -1,4 +1,7 @@
 # Rocket League Inventory-Pepe
+
+NOT WORKING ANYMORE
+
 Inventory Pepe is a tool to calculate and track the value of your Rocket League Inventory.
 
 Requirements:
